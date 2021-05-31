@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhruvDange
-- 👀 I’m interested in UI design, Machine Learning, Python.. just programming in general. 
+- 👀 I’m interested in Machine Learning, Python, Data Processing, Mobile App development.
 - 🌱 I’m currently learning Machine Learning, JavaScript, C, WordPress, AutoDesk Fusion360 and much more!
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me dhruvdange@gmail.com
